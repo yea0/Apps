@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "AZ_fall-2018_shutterstock_1096779713_crp-for-web.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
