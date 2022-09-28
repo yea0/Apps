@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "rick-original.jpg.sticker"
+    },
+    {
+      "filename" : "morty-original.jpg.sticker"
+    },
+    {
+      "filename" : "snowball-original.jpg.sticker"
+    }
+  ]
+}
